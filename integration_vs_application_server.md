@@ -1,0 +1,15 @@
+Application vs Integration Server Servers'
+The choice of machine for an integration server versus an application server depends on a variety of factors, including the size and complexity of the application, the number of users, and the workload requirements.
+
+For an integration server, which is responsible for coordinating and integrating different components of a software system, a high-performance machine with a large amount of memory and processing power may be required to handle the complex processing and communication tasks. In addition, an integration server may need to support multiple services or APIs, which could require additional resources.
+
+For an application server, which is responsible for running the actual application code and serving requests from users, the choice of machine will depend on the size and complexity of the application, the number of users, and the workload requirements. A mid-range performance machine with sufficient memory, processing power, and disk space may be sufficient for a smaller application, while a larger application with more users and more complex processing requirements may require a high-performance machine with more resources.
+
+It's important to carefully consider the requirements of both the integration server and application server when choosing the machine to ensure that they have the resources they need to perform their tasks efficiently and effectively. Additionally, it's important to regularly monitor and optimize the performance of both servers to ensure that they continue to meet the needs of the application and its users.
+
+A few options are as follows … 
+On-premise servers: These are physical servers that are located on-site at your organization's data center or server room. On-premise servers give you full control over the hardware and software environment, but they also require a significant upfront investment in hardware and maintenance costs.
+Cloud-based servers: These are virtual servers that are hosted in the cloud, such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform. Cloud-based servers offer the flexibility of scaling up or down as needed, and they typically come with a pay-as-you-go pricing model. However, they may have some limitations on customization options.
+Dedicated servers: These are physical servers that are leased from a hosting provider and are dedicated solely to your organization's use. Dedicated servers offer high levels of control and customization, but they also require more maintenance and management than other options.
+Virtual private servers (VPS): These are virtual servers that share hardware with other VPS instances, but are isolated from each other at the software level. VPS instances can be customized to meet specific needs, and they typically offer better performance than shared hosting options.
+Container-based servers: These are virtual servers that are hosted within containers, such as Docker. Container-based servers allow for easy portability and scalability of applications, and they can be run on a variety of hosting platforms, including cloud-based servers and on-premise servers
